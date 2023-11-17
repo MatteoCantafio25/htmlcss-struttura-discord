@@ -7,6 +7,7 @@
 
 .flex-container{
     height: 80px;
+    min-width: 100%;
     display: flex;
     background-color: #ADD8E6;
     align-items: center;
@@ -35,6 +36,7 @@
 
 .blue-container{
     min-height: 500px;
+    min-width: 100%;
     display: flex;
     background-color: #00008B;
     align-items: center;
@@ -50,6 +52,7 @@
 
 .white-container{
     min-height: 500px;
+    min-width: 100%;
     display: flex;
     background-color: white;
     align-items: center;
@@ -73,6 +76,7 @@
 
 .grey-container{
     min-height: 500px;
+    min-width: 100%;
     display: flex;
     background-color: #D3D3D3;
     align-items: center;
@@ -89,6 +93,7 @@
 
 .dark-grey-container{
     min-height: 500px;
+    min-width: 100%;
     display: flex;
     background-color: #23272A;
     align-items: center;
@@ -112,6 +117,7 @@
 
 .dg-flex-container{
     height: 120px;
+    min-width: 100%;
     display: flex;
     background-color: #23272A;
     align-items: flex-end;
