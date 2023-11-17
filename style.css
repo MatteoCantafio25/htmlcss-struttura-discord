@@ -1,0 +1,34 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container{
+    height: 60px;
+    display: flex;
+    background-color: #ADD8E6;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    background-color: #DAA520;
+    border: 2px dashed black;
+    height: 30px;
+    width: 150px;
+}
+.link{
+    background-color: #DAA520;
+    border: 2px dashed black;
+    height: 30px;
+    width: 500px;
+}
+
+.login{
+    background-color: #DAA520;
+    border: 2px dashed black;
+    height: 30px;
+    width: 150px;
+}
