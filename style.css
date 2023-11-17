@@ -6,7 +6,7 @@
 }
 
 .flex-container{
-    height: 60px;
+    height: 80px;
     display: flex;
     background-color: #ADD8E6;
     align-items: center;
@@ -16,19 +16,57 @@
 .logo{
     background-color: #DAA520;
     border: 2px dashed black;
-    height: 30px;
-    width: 150px;
+    height: 40px;
+    width: 200px;
 }
 .link{
     background-color: #DAA520;
     border: 2px dashed black;
-    height: 30px;
-    width: 500px;
+    height: 40px;
+    width: 700px;
 }
 
 .login{
     background-color: #DAA520;
     border: 2px dashed black;
-    height: 30px;
-    width: 150px;
+    height: 40px;
+    width: 200px;
+}
+
+.blue-container{
+    min-height: 500px;
+    display: flex;
+    background-color: #00008B;
+    align-items: center;
+    justify-content: center;
+}
+
+.pink-box{
+    background-color: #EE82EE;
+    border: 2px dashed black;
+    height: 400px;
+    width: 800px;
+}
+
+.white-container{
+    min-height: 500px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 40px;
+}
+
+.blue-box{
+    background-color: #1E90FF;
+    border: 2px dashed black;
+    height: 500px;
+    width: 650px;
+}
+
+.light-pink-box{
+    background-color: #FFC0CB;
+    border: 2px dashed black;
+    height: 500px;
+    width: 450px;
 }
